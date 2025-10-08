@@ -97,7 +97,7 @@ mds=full,nosmt tsx=off"
 
 * Minimalist CLI task manager with TUI and Web interface made in [python](python.org) with [flask](https://flask.palletsprojects.com/en/stable/). Built in bash because sometimes the old ways are the best ways.
 
-> **Working on a new project, **`pkgwhy`**!**
+> **Working on a new project:** `pkgwhy` 🚧
 
 ---
 
