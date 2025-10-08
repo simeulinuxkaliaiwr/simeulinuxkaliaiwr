@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=BC13FE&center=true&width=550&lines=echo+%24whoami;make+-j%24(nproc);Source+based;Linux+Nerd;Compile+from+Source" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=BC13FE&center=true&width=550&lines=make+-j%24(nproc);Source+based;Linux+Nerd;Compile+from+Source" alt="Typing SVG"/>
 </p>
 
 ---
