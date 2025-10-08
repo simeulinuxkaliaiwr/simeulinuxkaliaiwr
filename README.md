@@ -38,8 +38,6 @@
 
 * Build practical CLI tools (Bash, Python, Flask)
 
-* Contribute to open-source projects
-
 * Maintain **[clilog-git in AUR](https://www.aur.archlinux.org/packages/clilog-git)**
 
 * Compile my own kernels
