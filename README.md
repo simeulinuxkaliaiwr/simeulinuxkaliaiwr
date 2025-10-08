@@ -99,6 +99,32 @@ mds=full,nosmt tsx=off"
 
 ---
 
+### What is `pkgwhy`?
+
+pkgwhy (Why is this package here?) is a command-line utility (CLI), written in rust, whose main purpose is to act as a diagnostic and software tracing tool for Linux systems based on *[arch linux](https://www.archlinux.org)*, which uses pacman as package manager. (initially only for pacman, but later it will be ported to other package managers, such as dnf, apt, portage, etc.)
+
+It aims to answer the fundamental question: Why is a particular package installed on the system?
+
+Example of use:
+```
+$ pkgwhy neovim
+
+→ Explicitly installed: 2024-03-15 (user: you)
+
+→ Dependencies brought: 12 packages
+
+→ Recent use: 4.2h/day (high)
+
+pkgwhy lib32-glibc
+
+→ Installed as a dependency of: steam (2024-02-10)
+
+→ Never used directly
+```
+
+
+---
+
 📫 Let's Connect
 
 - Github: [simeulinuxkaliaiwr](https://www.github.com/simeulinuxkaliaiwr)
