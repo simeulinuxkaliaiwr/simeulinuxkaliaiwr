@@ -162,3 +162,6 @@ $ grrec --preset high-quality --quality 85 -f presentation.mp4
 
 ---
 *Fun fact: I created my email when I was 8 years old. Some of us start early.*
+
+---
+*Made by [simeulinuxkaliaiwr](https://www.github.com/simeulinuxkaliaiwr) based on [Jox0101011](https://www.github.com/Jox0101011)*
