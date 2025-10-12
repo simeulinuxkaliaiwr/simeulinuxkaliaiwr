@@ -95,7 +95,7 @@ mds=full,nosmt tsx=off"
 
 * Minimalist CLI task manager with TUI and Web interface made in [python](python.org) with [flask](https://flask.palletsprojects.com/en/stable/). Built in bash because sometimes the old ways are the best ways.
 
-> **Working on a new project:** `pkgwhy` 🚧
+> **Working on 2 new projects:** `pkgwhy` and `grrec`🚧
 
 ---
 
@@ -122,6 +122,34 @@ pkgwhy lib32-glibc
 → Never used directly
 ```
 
+---
+
+### What is grrec?
+
+grrec is a fast, C-based command-line screen recorder for Wayland, focused on providing superior user experience through simple presets and native integration.
+
+Example of use:
+```
+# Basic Usage - Records the current output (screen) with a default, balanced preset.
+# The output file is automatically named (e.g., grrec-2025-10-11_21-18-50.mp4).
+$ grrec
+
+# Records a specific, visually selected area of the screen. 
+# Uses a visual tool (like slurp) for selection before recording starts.
+$ grrec --select
+
+# Records the active window only, using a fast codec for web sharing.
+$ grrec --active-window --preset web-share
+
+# Records with a specific output file name, forcing 60 frames per second (FPS).
+$ grrec -f my_gameplay.mkv --framerate 60
+
+# Records the screen, including the system's audio input (e.g., speaker output or microphone).
+$ grrec --with-audio
+
+# Advanced Use: Uses a high-quality preset (e.g., AV1 or H.265) and a custom quality scale (0-100).
+$ grrec --preset high-quality --quality 85 -f presentation.mp4
+```
 
 ---
 
