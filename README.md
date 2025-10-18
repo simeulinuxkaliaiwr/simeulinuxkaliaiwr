@@ -18,6 +18,8 @@
 
 > *I believe in tools that solve real problems with elegant solutions. Whether it's a Bash script or a kernel patch, if it makes the system better, it's worth building.*
 
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simeulinuxkaliaiwr/simeulinuxkaliaiwr/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simeulinuxkaliaiwr/simeulinuxkaliaiwr/output/pacman-contribution-graph.svg">
