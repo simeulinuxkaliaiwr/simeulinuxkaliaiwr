@@ -33,7 +33,7 @@
 
 * Linux user for 1.5 years - started with Mint, now running Gentoo as main OS with Arch Linux dual-boot
 
-* Started programming 2/3 months ago
+* Started programming in August of 2025
 
 * Gentoo for development and learning
 
