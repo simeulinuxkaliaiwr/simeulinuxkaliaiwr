@@ -65,7 +65,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
   <img src="https://www.gentoo.org/assets/img/logo/gentoo-signet.svg" width="50" />
-  <img src="https://github.com/tmux/tmux/blob/master/logo/tmux-logomark.svg" width="50" alt="tmux" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1086px-C_Programming_Language.svg.png" width="45" />
 </p>
 
 ---
