@@ -135,7 +135,9 @@ pkgwhy lib32-glibc
 
 ### What is `grrec`?
 
-grrec is a fast, C-based command-line screen recorder for Wayland, focused on providing superior user experience through simple presets and native integration.
+Grrec is a fast, C-based command-line screen recorder for Wayland, focused on providing superior user experience through simple presets and native integration.
+
+*I am making grrec bc i don't like [wf-recorder](https://github.com/ammen99/wf-recorder) output.*
 
 Example of use:
 ```
