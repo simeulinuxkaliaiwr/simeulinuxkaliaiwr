@@ -99,6 +99,12 @@ mds=full,nosmt tsx=off"
 
 ---
 
+### 🚀 Future goals & Systems Deep Dive
+
+*My journey is about refinement. These are the core targets for the next 6-12 months, focusing on systems programming, kernel interaction, and mastering modern Linux standards.*
+
+---
+
 ### 🌟 Current Projects
 > **[`clilog`](https://www.github.com/simeulinuxkaliaiwr/clilog)**
 
