@@ -130,7 +130,7 @@ $ pkgwhy neovim
 
 → Recent use: 4.2h/day (high)
 
-pkgwhy lib32-glibc
+$ pkgwhy lib32-glibc
 
 → Installed as a dependency of: steam (2024-02-10)
 
