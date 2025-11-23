@@ -78,12 +78,6 @@
 
 ---
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=simeulinuxkaliaiwr&theme=radical"/>
-</p>
-
----
-
 ### 🔧 Current Setup & Philosophy
 ```
 
