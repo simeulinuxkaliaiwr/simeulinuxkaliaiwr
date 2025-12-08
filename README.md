@@ -47,8 +47,6 @@
 
 * Build practical CLI tools (Bash, Python, Flask)
 
-* Maintain **[clilog-git in AUR](https://www.aur.archlinux.org/packages/clilog-git)**
-
 * Compile my own kernels
 
    > Break things and learn how to fix them
@@ -104,6 +102,10 @@ mds=full,nosmt tsx=off"
 > **[`clilog`](https://www.github.com/simeulinuxkaliaiwr/clilog)**
 
 * Minimalist CLI task manager with TUI and Web interface made in [python](python.org) with [flask](https://flask.palletsprojects.com/en/stable/). Built in bash because sometimes the old ways are the best ways.
+
+> **[`mini-coreutils`](https://www.github.com/simeulinuxkaliaiwr/mini-coreutils)**
+
+* A lightweight reimplementation of classic **GNU coreutils**, built from scratch using **low-level syscalls** and **manual system interactions**.
 
 > **Working on 2 new projects:** `pkgwhy` and `grrec`🚧
 
