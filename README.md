@@ -100,6 +100,10 @@ mds=full,nosmt tsx=off"
 
 * A lightweight reimplementation of classic **GNU coreutils**, built from scratch using **low-level syscalls** and **manual system interactions**.
 
+> **[`elf-stat`](https://www.github.com/simeulinuxkaliaiwr/elf-stat)**
+
+* A **low-level** utility designed to inspect file metadata on `linux` x86_64.
+
 > **Working on 2 new projects:** `pkgwhy` and `grrec`🚧
 
 ---
