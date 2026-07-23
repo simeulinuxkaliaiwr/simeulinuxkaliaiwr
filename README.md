@@ -14,7 +14,7 @@
 
 # About me
 
-**13-year-old Linux systems enthusiast & Dev bash**
+**14-year-old Linux systems enthusiast & Dev bash**
 
 > *I believe in tools that solve real problems with elegant solutions. Whether it's a Bash script or a kernel patch, if it makes the system better, it's worth building.*
 
