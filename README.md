@@ -8,9 +8,12 @@
 </p>
 
 ---
-<p align="left">
-<img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width=230 />
+
+<p align="center">
+  <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="300" style="float: left;" />
+  <img src="https://media1.tenor.com/m/9NG4T3vNSOsAAAAC/%D0%BF%D0%BE%D1%86%D0%B5%D0%BB%D1%83%D0%B9.gif" width="300" style="float: right;" />
 </p>
+<div style="clear: both;"></div>
 
 # About me
 
