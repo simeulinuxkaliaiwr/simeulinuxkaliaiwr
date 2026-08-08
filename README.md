@@ -29,30 +29,15 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/simeulinuxkaliaiwr/simeulinuxkaliaiwr/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 ---
 
 ## 🚀 My Journey
 
-* Linux user for 1.5 years - started with Mint, now running Gentoo as main OS with Arch Linux dual-boot
+* Linux user since 2024 - started with Mint, now running Gentoo as main OS with Arch Linux dual-boot
 
 * Started programming in August of 2025
 
 * Gentoo for development and learning
-
-* Arch for gaming and testing new projects like clilog
-
-* Hyprland on both systems because tiling WMs are life
-
----
-
-## 🛠️ What I Do
-
-* Build practical CLI tools (Bash, Python, Flask)
-
-* Compile my own kernels
-
-   > Break things and learn how to fix them
 
 ---
 
@@ -88,82 +73,37 @@ mds=full,nosmt tsx=off"
 
 ---
 
-### 🚀 Future goals & Systems Deep Dive
-
-*My journey is about refinement. These are the core targets for the next 6-12 months, focusing on systems programming, kernel interaction, and mastering modern Linux standards.*
-
----
-
 ### 🌟 Current Projects
+
+> **[`vantage`](https://www.github.com/simeulinuxkaliaiwr/vantage)**
+
+* Futuristic and fluid rice for hyprland made with quickshell.
+
+https://github.com/user-attachments/assets/37d31b42-89c3-41c8-b711-d8765723ceac
+
+> **[`wallmgr`](https://www.github.com/simeulinuxkaliaiwr/wallmgr)**
+
+* Modern looking wallpaper manager with fluid animations for xorg written in *c++* and *qml*.
+
+https://github.com/user-attachments/assets/cc46a59d-80ab-4f28-a661-f4fdcca4e083
+
+> **[`lukwm`](https://www.github.com/simeulinuxkaliaiwr/lukwm)**
+
+* Minimal and lightweight **floating** window manager for xorg, written in C.
+
+<img width="1080" height="607" alt="lukwm-just-made-my-own-window-manager-for-xorg-v0-svmvbtt7kvgh1" src="https://github.com/user-attachments/assets/a67d46f9-b2eb-4052-8eb0-ace132fcac05" />
+
 > **[`clilog`](https://www.github.com/simeulinuxkaliaiwr/clilog)**
 
-* Minimalist CLI task manager with TUI and Web interface made in [python](python.org) with [flask](https://flask.palletsprojects.com/en/stable/). Built in bash because sometimes the old ways are the best ways.
+* Minimalist CLI task manager with TUI and Web interface; made in python and bash.
 
 > **[`mini-coreutils`](https://www.github.com/simeulinuxkaliaiwr/mini-coreutils)**
 
-* A lightweight reimplementation of classic **GNU coreutils**, built from scratch using **low-level syscalls** and **manual system interactions**.
+* A lightweight reimplementation of classic **GNU coreutils**, built from scratch using **syscalls** and **manual system interactions**.
 
 > **[`elf-stat`](https://www.github.com/simeulinuxkaliaiwr/elf-stat)**
 
 * A **low-level** utility designed to inspect file metadata on `linux` x86_64.
-
-> **Working on 2 new projects:** `pkgwhy` and `grrec`🚧
-
----
-
-### What is `pkgwhy`?
-
-pkgwhy (Why is this package here?) is a command-line utility (CLI), written in rust, whose main purpose is to act as a diagnostic and software tracing tool for Linux systems based on *[arch linux](https://www.archlinux.org)*, which uses pacman as package manager. (initially only for pacman, but later it will be ported to other package managers, such as dnf, apt, portage, etc.)
-
-It aims to answer the fundamental question: Why is a particular package installed on the system?
-
-Example of use:
-```
-$ pkgwhy neovim
-
-→ Explicitly installed: 2024-03-15 (user: you)
-
-→ Dependencies brought: 12 packages
-
-→ Recent use: 4.2h/day (high)
-
-$ pkgwhy lib32-glibc
-
-→ Installed as a dependency of: steam (2024-02-10)
-
-→ Never used directly
-```
-
----
-
-### What is `grrec`?
-
-Grrec is a fast, C-based command-line screen recorder for Wayland, focused on providing superior user experience through simple presets and native integration.
-
-*I am making grrec bc i don't like [wf-recorder](https://github.com/ammen99/wf-recorder) output.*
-
-Example of use:
-```
-# Basic Usage - Records the current output (screen) with a default, balanced preset.
-# The output file is automatically named (e.g., grrec-2025-10-11_21-18-50.mp4).
-$ grrec
-
-# Records a specific, visually selected area of the screen. 
-# Uses a visual tool (like slurp) for selection before recording starts.
-$ grrec --select
-
-# Records the active window only, using a fast codec for web sharing.
-$ grrec --active-window --preset web-share
-
-# Records with a specific output file name, forcing 60 frames per second (FPS).
-$ grrec -f my_gameplay.mkv --framerate 60
-
-# Records the screen, including the system's audio input (e.g., speaker output or microphone).
-$ grrec --with-audio
-
-# Advanced Use: Uses a high-quality preset (e.g., AV1 or H.265) and a custom quality scale (0-100).
-$ grrec --preset high-quality --quality 85 -f presentation.mp4
-```
 
 ---
 
@@ -171,11 +111,6 @@ $ grrec --preset high-quality --quality 85 -f presentation.mp4
 
 - Github: [simeulinuxkaliaiwr](https://www.github.com/simeulinuxkaliaiwr)
 - AUR Account: [AUR Account](https://aur.archlinux.org/account/Guilherme_bash/)
+- Reddit: [reddit](https://www.reddit.com/user/Emergency_Rip_5178)
 - Tiktok: [Tiktok](https://www.tiktok.com/@gz.xt7n)
-- **Email**: [Email account](mailto:leonsombrio244@gmail.com)
-
----
-*Fun fact: I created my email when I was 8 years old. Some of us start early.*
-
----
-*Made by [simeulinuxkaliaiwr](https://www.github.com/simeulinuxkaliaiwr) based on [Jox0101011](https://www.github.com/Jox0101011)*
+- **Email**: [Email account](mailto:aerofrutiger3000@gmail.com)
