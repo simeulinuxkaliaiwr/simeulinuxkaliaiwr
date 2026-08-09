@@ -2,58 +2,77 @@
 <img src="https://media1.tenor.com/m/CgCL3w8WgXkAAAAC/rias-gremory-highschool-dxd.gif" width=650/>
 </p>
 
----
+<!--
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=BC13FE&center=true&width=550&lines=make+-j%24(nproc);Source+based;Linux+Nerd;Compile+from+Source" alt="Typing SVG"/>
 </p>
-
+-->
 ---
 
+<!--
 <p align="center">
   <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="300" style="float: left;" />
   <img src="https://media1.tenor.com/m/9NG4T3vNSOsAAAAC/%D0%BF%D0%BE%D1%86%D0%B5%D0%BB%D1%83%D0%B9.gif" width="300" style="float: right;" />
 </p>
 <div style="clear: both;"></div>
+-->
 
-# About me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=About+Me" alt="Typing SVG" />
+</div>
 
-**14-year-old Linux systems enthusiast & Dev bash**
+<table>
+<tr>
 
-> *I believe in tools that solve real problems with elegant solutions. Whether it's a Bash script or a kernel patch, if it makes the system better, it's worth building.*
+<td width="40%" align="center">
 
----
+  <img src="https://github.com/user-attachments/assets/56b14f88-a61e-4f40-94b1-b35ee7ca7664" width="400"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simeulinuxkaliaiwr/simeulinuxkaliaiwr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simeulinuxkaliaiwr/simeulinuxkaliaiwr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/simeulinuxkaliaiwr/simeulinuxkaliaiwr/output/pacman-contribution-graph.svg">
-</picture>
+</td>
 
----
+<td width="60%" valign="top">
 
-## 🚀 My Journey
+```csharp
+------------------------------------------------------------------------
+I am a 14-year-old developer and systems enthusiast. 
 
-* Linux user since 2024 - started with Mint, now running Gentoo as main OS with Arch Linux dual-boot
+Journey: Started using Linux (Mint) in 2024. Got into programming 
+         in August, 2025. Started with Bash, now focusing on C and QML.
+OS:      Gentoo and Arch Linux. Sometimes testing FreeBSD in a VM.
 
-* Started programming in August of 2025
+Interests: 
+ └─ Low-level programming, custom kernel compilation & system security.
+ └─ Creating fluid UI/UX with QML/Qt for minimalist environments.
 
-* Gentoo for development and learning
+Current Goals:
+ └─ Master memory management and OS internals.
+ └─ Make fluid and modern GUI applications with QML.
+ └─ Rewrite core system tools to fully understand Linux syscalls.
 
----
+Workflow:
+ └─ Editor: Neovim.
+ └─ Multiplexer: tmux for managing multiple terminal sessions.
+ └─ Philosophy: Keep it simple, source-based, and bloat-free.
 
-## Tools and Languages
-<p align="center">
+------------------------------------------------------------------------
+```
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vim/vim-original.svg" width="50" alt="vim" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
   <img src="https://www.gentoo.org/assets/img/logo/gentoo-signet.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1086px-C_Programming_Language.svg.png" width="45" />
 </p>
+
+
+</td>
+</tr>
+</table>
+
+> *I believe in tools that solve real problems with elegant solutions. Whether it's a Bash script or a kernel patch, if it makes the system better, it's worth building.*
 
 ---
 
@@ -104,6 +123,10 @@ https://github.com/user-attachments/assets/cc46a59d-80ab-4f28-a661-f4fdcca4e083
 > **[`elf-stat`](https://www.github.com/simeulinuxkaliaiwr/elf-stat)**
 
 * A **low-level** utility designed to inspect file metadata on `linux` x86_64.
+
+---
+
+> Thanks to [@MHashir09](https://www.github.com/MHashir09) for starring my repositories and inspiring me with his README!
 
 ---
 
